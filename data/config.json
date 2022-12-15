@@ -100,7 +100,7 @@
         "name": "Link zu codierten Segmenten",
         "source": "_link",
         "display": "column",
-        "type": "text"
+        "type": "markdown"
       }
     ]
   }
