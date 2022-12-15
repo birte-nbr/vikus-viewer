@@ -41,7 +41,7 @@ body {
   height: 100vh;
   background: #131415;
   /*-moz-user-select: none;
-   -webkit-user-select: none; 
+   -webkit-user-select: none;
   -ms-user-select:none;
   user-select:none;
   -o-user-select:none;*/
@@ -320,7 +320,7 @@ margin-top: -100px;}
   z-index: 500;
 }
 
- 
+
 .viz {
 
     position: absolute;
@@ -389,7 +389,7 @@ svg {
 }
 
 /*.none .entries {
-  display: none; 
+  display: none;
   opacity: 0;
 }*/
 
@@ -401,12 +401,12 @@ svg {
 }
 
 .timeline.small .middle, .timeline.small .large {
-  display: none; 
+  display: none;
   opacity: 0;
 }
 
 .timeline.middle .small, .timeline.middle .large {
-  display: none; 
+  display: none;
   opacity: 0;
 }
 
@@ -446,7 +446,7 @@ svg {
 
 .timeline .small .title {font-size: 0.5em;}
 .timeline .middle .title {
-  
+
 }
 
 
@@ -949,4 +949,3 @@ textarea:focus, input:focus{
 *:focus {
     outline: none;
 }
-
