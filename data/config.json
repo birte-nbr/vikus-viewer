@@ -1,0 +1,107 @@
+{
+  "project": {
+    "name": "Working Women",
+    "quality": 1
+ },
+  "loader": {
+    "info": "./data/info.md",
+    "timeline": "./data/timeline2.csv",
+    "items": "./data/data.csv",
+    "textures": {
+      "medium": {
+        "size": 256,
+        "url": "./data/sprites/spritesheet.json"
+      },
+      "detail": {
+        "size": 1024,
+        "url": "./data/1024/"
+      },
+      "big": {
+        "size": 4096,
+        "url": "./data/4096/"
+      }
+    }
+  },
+  "style": {
+    "fontColor": "#2d3b43",
+    "fontColorActive": "#eae2cb",
+    "fontBackground": "#295b71",
+    "textShadow": "1px 1px 0px #f8f4e9",
+    "canvasBackground": "#d9d9d9",
+    "timelineBackground": "#fff9eb",
+    "timelineFontColor": "#000",
+    "backgroundHeader": "#035151",
+    "fontColorHeader": "#f8774f",
+    "detailBackground": "#EEE",
+    "infoBackground": "#ffe6e6",
+    "infoFontColor": "#000000",
+    "searchbarBackground": "#ffe6e6"
+  },
+  "projection": {
+    "columns": 6
+  },
+  "detail": {
+    "structure": [
+      {
+        "name": "Titel",
+        "source": "_description",
+        "display": "column",
+        "type": "text"
+      },
+{
+        "name": "Zeitspanne",
+        "source": "_year",
+        "display": "column",
+        "type": "text"
+      },
+      {
+        "name": "Jahr",
+        "source": "_actual_year",
+        "display": "column",
+        "type": "text"
+      },
+      {
+        "name": "Kategorie",
+        "source": "_category",
+        "display": "column",
+        "type": "text"
+      },
+      {
+        "name": "Schreibstil",
+        "source": "_letteringStyle",
+        "display": "column",
+        "type": "text"
+      },
+      {
+        "name": "Schlagwörter",
+        "source": "_keywords",
+        "display": "column",
+        "type": "array"
+      },
+      {
+        "name": "Inhalt",
+        "source": "_contains",
+        "display": "column",
+        "type": "text"
+      },
+      {
+        "name": "Ton",
+        "source": "_tone",
+        "display": "column",
+        "type": "text"
+      },
+      {
+        "name": "Notiz",
+        "source": "_additionalNotes",
+        "display": "column",
+        "type": "text"
+      },
+ {
+        "name": "Link zu codierten Segmenten",
+        "source": "_link",
+        "display": "column",
+        "type": "text"
+      }
+    ]
+  }
+}
