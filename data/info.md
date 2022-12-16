@@ -1,6 +1,6 @@
 # Working Women
 
-Explorative Sammlung der Fundstücke des PTT Archivs zum Thema 50 Jahre Frauenstimmrecht in der Schweiz
+Explorative Sammlung der Fundstücke des PTT Archivs zum Thema 50 Jahre Frauenstimmrecht in der Schweiz. [Quelle](https://www.mfk.ch/forschen/ptt-archiv/frauen-bei-der-ptt/)
 
 
 Als grösste Arbeitgeberin der Schweiz schrieben die [PTT](https://www.mfk.ch/forschen/ptt-archiv) auch ein wichtiges Kapitel der Schweizer Arbeiterinnengeschichte. Dabei dominierten seit der Gründung der schweizerischen Post 1849 sowie der eidgenössischen Telegrafenbetriebe 1852 Männer das Berufsbild der Beamten. 1991, im Jahr des Frauenstreiks, waren knapp ein Drittel der Angestellten Frauen: 19'000.
@@ -20,9 +20,9 @@ Die Fundstücke sind historisch geordnet. Unter der Jahreszahl befinden sich wei
 
 ![time](img/infobar_scroll_b.svg)
 
-Du kannst entweder mit dem Touchpad oder deiner Maus zoomen, um die Fundtsücke genauer zu betrachten. Die sichtbare Fläche kannst du durch klicken und ziehen verändern.
+Du kannst entweder mit dem Touchpad oder deiner Maus zoomen, um die Fundstücke genauer zu betrachten. Die sichtbare Fläche kannst du durch klicken und ziehen verändern.
 
-![logo](img/Mfk.png)
+![logo](img/Mfk.png)(https://www.mfk.ch)
 Museum für Kommunikation
 Helvetiastrasse 16, 3000 Bern 6
 T 031 357 55 55
